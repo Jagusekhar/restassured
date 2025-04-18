@@ -11,7 +11,7 @@ public class Putapi {
 	@Test
 	public void put() {
 		
-		
+		//Jagu Sekhar code
 		RequestSpecification request= RestAssured.given();
 		
 		request.header("Content-type","application/json");
